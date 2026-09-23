@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# PyInstaller
+# 忽略 PyInstaller 自动生成的中间目录（build/hhu抢课.../ 是 PyInstaller 输出）
+# 但保留 build/build.spec（打包配置要入库）
+build/hhu*
+*.spec.bak
+*.pyz
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 系统
+*.tmp
+*.log
+*.bak
+
+# 用户配置（敏感 - 学号 / 密码 / zbid）
+hhu_config.json
+
+# 调试产物
+debug/
+*.html
+!docs/*.html
