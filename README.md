@@ -125,7 +125,7 @@ https://jwxt.hhu.edu.cn/jsxsd/xsxk/xklc_view?jx0502zbid=2907E43725A94633A9161DB7
 使用本工具造成的任何后果（包括但不限于选课违规、账号封禁）由使用者自行承担。  
 详见 [docs/DISCLAIMER.md](docs/DISCLAIMER.md)。
 
-免责声明 (DISCLAIMER)
+##❗❗❗免责声明 (DISCLAIMER)
 
 最后更新：2026-09-23
 
